@@ -1,5 +1,6 @@
 # adbjs [![Build Status](https://travis-ci.org/Urucas/adbjs.svg)](https://travis-ci.org/Urucas/adbjs)
-Use adb from node
+Use adb from node ( thanks to Urucas)
+I need some other commands for adb, such as getevent, sendevent etc
 
 #Requirements
 * ADB
