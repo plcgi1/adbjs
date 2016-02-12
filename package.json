@@ -19,12 +19,12 @@
     "javascript",
     "js"
   ],
-  "author": "Urucas <hello@urucas.com>",
+  "author": "AlexWeb <plcgi1@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Urucas/adbjs/issues"
+    "url": "https://github.com/plcgi1/adbjs/issues"
   },
-  "homepage": "https://github.com/Urucas/adbjs",
+  "homepage": "https://github.com/plcgi1/adbjs",
   "dependencies": {},
   "devDependencies": {
     "adb-mock": "^0.1.5",
